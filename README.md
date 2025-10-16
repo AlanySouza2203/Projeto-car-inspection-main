@@ -111,14 +111,16 @@ Este projeto foi desenvolvido em equipe pelos seguintes colaboradores:
 @IVO-sys-creator
 
 ---
+
 ##  📚 Projeto Acadêmico
 Este projeto foi desenvolvido como parte de uma disciplina acadêmica, com o objetivo de aplicar os conceitos de desenvolvimento de sistemas.
 
 ---
 ## Agradecimentos
----
+
 
 Agradecemos ao professor **Hudson Neves**, orientador deste projeto, pelo apoio, pelas sugestões construtivas e pela orientação contínua ao longo do desenvolvimento do sistema.
+
 ---
 
 ## Considerações Finais
