@@ -95,7 +95,7 @@ O sistema segue uma **arquitetura em camadas (MVC):**
 - **Suporte à Decisão:** Relatórios customizáveis para decisões gerenciais
 
 ---
-##👥 Colaboradores
+## 👥 Colaboradores
 Este projeto foi desenvolvido em equipe pelos seguintes colaboradores:
 
 @geovan-na
@@ -110,7 +110,7 @@ Este projeto foi desenvolvido em equipe pelos seguintes colaboradores:
 
 @IVO-sys-creator
 ---
-##📚 Projeto Acadêmico
+##  📚 Projeto Acadêmico
 Este projeto foi desenvolvido como parte de uma disciplina acadêmica, com o objetivo de aplicar os conceitos de desenvolvimento de sistemas.
 
 ---
