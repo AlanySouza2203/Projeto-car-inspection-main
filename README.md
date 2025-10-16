@@ -95,6 +95,29 @@ O sistema segue uma **arquitetura em camadas (MVC):**
 - **Suporte à Decisão:** Relatórios customizáveis para decisões gerenciais
 
 ---
+##👥 Colaboradores
+Este projeto foi desenvolvido em equipe pelos seguintes colaboradores:
+
+@geovan-na
+
+@Luizhcf857
+
+@vanderlinuxcode
+
+@LarissyDarc
+
+@ClaraNepomuceno
+
+@IVO-sys-creator
+---
+##📚 Projeto Acadêmico
+Este projeto foi desenvolvido como parte de uma disciplina acadêmica, com o objetivo de aplicar os conceitos de desenvolvimento de sistemas.
+
+---
+## Agradecimentos
+
+Agradecemos ao professor **Hudson Neves**, orientador deste projeto, pelo apoio, pelas sugestões construtivas e pela orientação contínua ao longo do desenvolvimento do sistema.
+---
 
 ## Considerações Finais
 
@@ -102,12 +125,6 @@ O projeto atende aos requisitos funcionais primários de uma empresa de vistoria
 **Futuras expansões sugeridas:**  
 - Notificações automáticas por e-mail/SMS  
 - Controle de acesso refinado por níveis de permissão
-
----
-
-## Agradecimentos
-
-Agradecemos ao professor **Hudson Neves**, orientador deste projeto, pelo apoio técnico, pelas sugestões construtivas e pela orientação contínua ao longo do desenvolvimento do sistema.
 
 ---
 
